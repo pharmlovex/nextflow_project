@@ -1,0 +1,7 @@
+name: ngs
+channels:
+  - defaults
+  - bioconda
+dependencies: 
+  - salmon
+  - fastqc
